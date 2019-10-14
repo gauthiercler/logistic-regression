@@ -9,7 +9,7 @@ Pseudo neural network refers to the fact that Logistic regression is a considere
 
 ### For each <img src="https://latex.codecogs.com/svg.latex?%5Cdpi%7B300%7D%20%24x%5E%7B%28i%29%7D%24" height="20">:
 
-#### Compute <img src="https://latex.codecogs.com/svg.latex?%5Cdpi%7B300%7D%20%24a%5E%7B%28i%29%7D%24" height="20">![]():
+#### Compute <img src="https://latex.codecogs.com/svg.latex?%5Cdpi%7B300%7D%20%24a%5E%7B%28i%29%7D%24" height="20">:
 
 <p align="center">
   <img src="https://latex.codecogs.com/svg.latex?%5Cdpi%7B300%7D%20%24%24z%5E%7B%28i%29%7D%20%3D%20w%5ET%20x%5E%7B%28i%29%7D%20&plus;%20b%20%5Ctag%7B1%7D%24%24" height="30">
