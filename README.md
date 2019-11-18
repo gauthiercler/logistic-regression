@@ -1,5 +1,5 @@
 
-# Pseudo neural network logistic regression classifier from scratch
+# Logistic regression classifier from scratch
 
 Implementation of a logistic regression classifier ([wiki](https://en.wikipedia.org/wiki/Logistic_regression)) based on a neural network mindset.
 
